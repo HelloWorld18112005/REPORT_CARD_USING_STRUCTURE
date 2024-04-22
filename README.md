@@ -28,7 +28,7 @@ final.mk : It is a Makefile which links all the file together.
 To compile all the linked files : open cmd, and type "mingw32-make -f final.mk "
                                   to run the code type "./final"
 
-Author : Ankur Sharma 
+Author : Ankur Sharma (T_T),
         [PES2UG23CS077]
         Semester - 2    Section - B
 
